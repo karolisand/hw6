@@ -1,0 +1,20 @@
+You will practice Openai Python client usage:
+
+1. Please create a public Github repository for this projects.
+2. Ensure .gitignore (for Python)is added.
+3. Ensure you have a Github user created.
+4. Go to https://github.com/marketplace/models and copy the usage code to your repo.
+5. Ensure python-dotenv and openai are installed.
+5.2 Create a Github Classic access token.
+6. Add .env with SECRET key. (ensure you .env is not being committed).
+7. Test that everything works.
+
+-- Advanced, optional
+8. Update this script to be a console application, 
+where you can enter a question and AI would give you an answer.
+
+9. Force AI to always answer in Lithuanian language.
+
+10. If 'exit' command is given, exit the application instead of calling ai.
+
+11. Whole conversation should be taken into context.
